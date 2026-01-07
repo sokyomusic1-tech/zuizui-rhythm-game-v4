@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/api/*"
+  to = "https://zuizui-rhythm-game-api.onrender.com/:splat"
+  status = 200
+  force = true
